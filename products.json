@@ -1,0 +1,3703 @@
+[{
+  "_id": {
+    "$oid": "61ffc44decc0e11f987784b7"
+  },
+  "id": 34,
+  "updatedAt": {
+    "$date": "2022-02-14T09:41:33.680Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T12:51:26.413Z"
+  },
+  "Name": "boAt Airdopes 131 - Wireless Earbuds",
+  "CategoryName": "Wireless_Earbuds",
+  "OldPrice": 2000,
+  "Price": 1199,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 48,
+  "Date": {
+    "$date": "2022-02-06T12:51:25.877Z"
+  },
+  "Dis": [
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours ",
+    " Truly wireless at a truly awesome price"
+  ],
+  "Products_data": [
+    {
+      "_id": {
+        "$oid": "61ffc44decc0e11f987784ba"
+      },
+      "Color": "#000000",
+      "Qty": 20,
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(1).png"
+    },
+    {
+      "_id": {
+        "$oid": "61ffc44decc0e11f987784b9"
+      },
+      "Color": "#545454",
+      "Qty": 185,
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(16).png"
+    },
+    {
+      "_id": {
+        "$oid": "61ffc44decc0e11f987784b8"
+      },
+      "Color": "#e4a0a0",
+      "Qty": 20,
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(18).png"
+    }
+  ],
+  "__v": 0,
+  "Offer_id": {
+    "$oid": "61ffb606ecc0e11f987781f9"
+  }
+},{
+  "_id": {
+    "$oid": "61ffc594ecc0e11f987784bc"
+  },
+  "id": 35,
+  "updatedAt": {
+    "$date": "2022-02-25T07:42:16.406Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T12:56:52.133Z"
+  },
+  "Name": "BOAT Airdopes 441 - Wireless Earbuds",
+  "CategoryName": "Wireless_Earbuds",
+  "OldPrice": 3999,
+  "Price": 2999,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 23,
+  "Date": {
+    "$date": "2022-02-06T12:56:52.129Z"
+  },
+  "Dis": [
+    "Truly wireless at a truly awesome price",
+    "Uninterrupted listening for 3 hours ",
+    "Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(7).png",
+      "Qty": 12,
+      "Color": "#616161",
+      "_id": {
+        "$oid": "61ffc594ecc0e11f987784bf"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(6).png",
+      "Qty": 20,
+      "Color": "#000000",
+      "_id": {
+        "$oid": "61ffc594ecc0e11f987784be"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(5).png",
+      "Qty": 20,
+      "Color": "#ad4500",
+      "_id": {
+        "$oid": "61ffc594ecc0e11f987784bd"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffc78aecc0e11f987784d3"
+  },
+  "id": 36,
+  "updatedAt": {
+    "$date": "2022-02-06T13:05:14.746Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:05:14.746Z"
+  },
+  "Name": "BOAT Airdopes 121 v2",
+  "CategoryName": "Wireless_Earbuds",
+  "OldPrice": 3899,
+  "Price": 2999,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:05:14.627Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(9).png",
+      "Qty": 20,
+      "Color": "#ff0000",
+      "_id": {
+        "$oid": "61ffc78aecc0e11f987784d9"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(10).png",
+      "Qty": 20,
+      "Color": "#1d87c9",
+      "_id": {
+        "$oid": "61ffc78aecc0e11f987784d8"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(11).png",
+      "Qty": 20,
+      "Color": "#ffea00",
+      "_id": {
+        "$oid": "61ffc78aecc0e11f987784d7"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(17).png",
+      "Qty": 20,
+      "Color": "#82c918",
+      "_id": {
+        "$oid": "61ffc78aecc0e11f987784d6"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(11).png",
+      "Qty": 20,
+      "Color": "#e7ff33",
+      "_id": {
+        "$oid": "61ffc78aecc0e11f987784d5"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(19).png",
+      "Qty": 20,
+      "Color": "#17329b",
+      "_id": {
+        "$oid": "61ffc78aecc0e11f987784d4"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffc7ececc0e11f987784db"
+  },
+  "id": 37,
+  "updatedAt": {
+    "$date": "2022-02-07T20:04:55.089Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:06:52.313Z"
+  },
+  "Name": "Airdopes 131 - Captain America Earbuds",
+  "CategoryName": "Wireless_Earbuds",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 47,
+  "Date": {
+    "$date": "2022-02-06T13:06:52.309Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(2).png",
+      "Qty": 20,
+      "Color": "#0a0094",
+      "_id": {
+        "$oid": "61ffc7ececc0e11f987784dd"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(3).png",
+      "Qty": 0,
+      "Color": "#9e0000",
+      "_id": {
+        "$oid": "61ffc7ececc0e11f987784dc"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffc87eecc0e11f987784df"
+  },
+  "id": 38,
+  "updatedAt": {
+    "$date": "2022-02-06T13:09:18.489Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:09:18.489Z"
+  },
+  "Name": "boAt Airdopes 451v2",
+  "CategoryName": "Wireless_Earbuds",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:09:18.486Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(4).png",
+      "Qty": 20,
+      "Color": "#0a0094",
+      "_id": {
+        "$oid": "61ffc87eecc0e11f987784e3"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(5).png",
+      "Qty": 20,
+      "Color": "#9e0000",
+      "_id": {
+        "$oid": "61ffc87eecc0e11f987784e2"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(6).png",
+      "Qty": 20,
+      "Color": "#000000",
+      "_id": {
+        "$oid": "61ffc87eecc0e11f987784e1"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/True_wireless/True_wireless(7).png",
+      "Qty": 20,
+      "Color": "#000352",
+      "_id": {
+        "$oid": "61ffc87eecc0e11f987784e0"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffc9ffecc0e11f987784e5"
+  },
+  "id": 39,
+  "updatedAt": {
+    "$date": "2022-03-02T08:11:23.956Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:15:43.139Z"
+  },
+  "Name": "boAt Rockerz 245 V2",
+  "CategoryName": "Wireless_Headphones",
+  "OldPrice": 3899,
+  "Price": 1299,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 89,
+  "Date": {
+    "$date": "2022-02-06T13:15:43.135Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Wireless_earphone/Wireless_earphone(3).png",
+      "Qty": 14,
+      "Color": "#030033",
+      "_id": {
+        "$oid": "61ffc9ffecc0e11f987784e9"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Wireless_earphone/Wireless_earphone(4).png",
+      "Qty": 86,
+      "Color": "#418b90",
+      "_id": {
+        "$oid": "61ffc9ffecc0e11f987784e8"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Wireless_earphone/Wireless_earphone(5).png",
+      "Qty": 18,
+      "Color": "#ff4242",
+      "_id": {
+        "$oid": "61ffc9ffecc0e11f987784e7"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Wireless_earphone/Wireless_earphone(6).png",
+      "Qty": 18,
+      "Color": "#8084ff",
+      "_id": {
+        "$oid": "61ffc9ffecc0e11f987784e6"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffca69ecc0e11f987784eb"
+  },
+  "id": 40,
+  "updatedAt": {
+    "$date": "2022-02-15T18:14:54.626Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:17:29.771Z"
+  },
+  "Name": "boAt Rockerz 235 V2",
+  "CategoryName": "Wireless_Headphones",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 5,
+  "Date": {
+    "$date": "2022-02-06T13:17:29.754Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Wireless_earphone/Wireless_earphone(1).png",
+      "Qty": 15,
+      "Color": "#de4a54",
+      "_id": {
+        "$oid": "61ffca69ecc0e11f987784ed"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Wireless_earphone/Wireless_earphone(2).png",
+      "Qty": 20,
+      "Color": "#418b90",
+      "_id": {
+        "$oid": "61ffca69ecc0e11f987784ec"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffcb7eecc0e11f987784fe"
+  },
+  "id": 41,
+  "updatedAt": {
+    "$date": "2022-02-06T13:22:06.948Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:22:06.948Z"
+  },
+  "Name": "boAt Rockerz 255 ",
+  "CategoryName": "Wireless_Headphones",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:22:06.942Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Wireless_earphone/Wireless_earphone(15).png",
+      "Qty": 20,
+      "Color": "#25435b",
+      "_id": {
+        "$oid": "61ffcb7eecc0e11f98778502"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Wireless_earphone/Wireless_earphone(16).png",
+      "Qty": 20,
+      "Color": "#1a5b60",
+      "_id": {
+        "$oid": "61ffcb7eecc0e11f98778501"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Wireless_earphone/Wireless_earphone(17).png",
+      "Qty": 20,
+      "Color": "#919191",
+      "_id": {
+        "$oid": "61ffcb7eecc0e11f98778500"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Wireless_earphone/Wireless_earphone(18).png",
+      "Qty": 20,
+      "Color": "#137596",
+      "_id": {
+        "$oid": "61ffcb7eecc0e11f987784ff"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffcc07ecc0e11f98778504"
+  },
+  "id": 42,
+  "updatedAt": {
+    "$date": "2022-02-28T11:37:08.689Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:24:23.029Z"
+  },
+  "Name": "boAt Watch Mercury",
+  "CategoryName": "Smart_Watches",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 14,
+  "Date": {
+    "$date": "2022-02-06T13:24:23.012Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/smart_watches/smart_watches(6).png",
+      "Qty": 329,
+      "Color": "#c4cfb9",
+      "_id": {
+        "$oid": "61ffcc07ecc0e11f98778508"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/smart_watches/smart_watches(7).png",
+      "Qty": 20,
+      "Color": "#000000",
+      "_id": {
+        "$oid": "61ffcc07ecc0e11f98778507"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/smart_watches/smart_watches(8).png",
+      "Qty": 20,
+      "Color": "#919191",
+      "_id": {
+        "$oid": "61ffcc07ecc0e11f98778506"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/smart_watches/smart_watches(9).png",
+      "Qty": 20,
+      "Color": "#137596",
+      "_id": {
+        "$oid": "61ffcc07ecc0e11f98778505"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffcc4aecc0e11f9877850a"
+  },
+  "id": 43,
+  "updatedAt": {
+    "$date": "2022-02-15T18:16:33.906Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:25:30.537Z"
+  },
+  "Name": "boAt Watch Iris",
+  "CategoryName": "Smart_Watches",
+  "OldPrice": 3899,
+  "Price": 2399,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 4,
+  "Date": {
+    "$date": "2022-02-06T13:25:30.535Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "_id": {
+        "$oid": "61ffcc4aecc0e11f9877850c"
+      },
+      "Color": "#c4cfb9",
+      "Qty": 16,
+      "img": "https://utioutll.sirv.com/boat/smart_watches/smart_watches(3).png"
+    },
+    {
+      "_id": {
+        "$oid": "61ffcc4aecc0e11f9877850b"
+      },
+      "Color": "#a30000",
+      "Qty": 20,
+      "img": "https://utioutll.sirv.com/boat/smart_watches/smart_watches(5).png"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffcd14ecc0e11f9877851d"
+  },
+  "id": 44,
+  "updatedAt": {
+    "$date": "2022-02-25T07:42:16.401Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:28:52.475Z"
+  },
+  "Name": "boAt Watch Xtend‌",
+  "CategoryName": "Smart_Watches",
+  "OldPrice": 3899,
+  "Price": 2599,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 1,
+  "Date": {
+    "$date": "2022-02-06T13:28:52.462Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "_id": {
+        "$oid": "61ffcd14ecc0e11f98778521"
+      },
+      "Color": "#c4cfb9",
+      "Qty": 20,
+      "img": "https://utioutll.sirv.com/boat/smart_watches/smart_watches(2).png"
+    },
+    {
+      "_id": {
+        "$oid": "61ffcd14ecc0e11f98778520"
+      },
+      "Color": "#a30000",
+      "Qty": 20,
+      "img": "https://utioutll.sirv.com/boat/smart_watches/smart_watches(17).png"
+    },
+    {
+      "_id": {
+        "$oid": "61ffcd14ecc0e11f9877851f"
+      },
+      "Color": "#121212",
+      "Qty": 20,
+      "img": "https://utioutll.sirv.com/boat/smart_watches/smart_watches(20).png"
+    },
+    {
+      "_id": {
+        "$oid": "61ffcd14ecc0e11f9877851e"
+      },
+      "Color": "#b30000",
+      "Qty": 19,
+      "img": "https://utioutll.sirv.com/boat/smart_watches/smart_watches(21).png"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffcd72ecc0e11f98778523"
+  },
+  "id": 45,
+  "updatedAt": {
+    "$date": "2022-02-06T13:30:26.606Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:30:26.606Z"
+  },
+  "Name": "boAt Strom",
+  "CategoryName": "Smart_Watches",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:30:26.590Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/smart_watches/smart_watches(15).png",
+      "Qty": 20,
+      "Color": "#c4cfb9",
+      "_id": {
+        "$oid": "61ffcd72ecc0e11f98778525"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/smart_watches/smart_watches(16).png",
+      "Qty": 20,
+      "Color": "#a30000",
+      "_id": {
+        "$oid": "61ffcd72ecc0e11f98778524"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffce01ecc0e11f98778527"
+  },
+  "id": 46,
+  "updatedAt": {
+    "$date": "2022-02-15T17:02:54.303Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:32:49.921Z"
+  },
+  "Name": "boAt BassHeads 225",
+  "CategoryName": "Wired_Earphones",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 6,
+  "Date": {
+    "$date": "2022-02-06T13:32:49.918Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/wired_headphones/wired_headphones(11).png",
+      "Qty": 10,
+      "Color": "#ff0000",
+      "_id": {
+        "$oid": "61ffce01ecc0e11f98778528"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffce23ecc0e11f9877852a"
+  },
+  "id": 47,
+  "updatedAt": {
+    "$date": "2022-02-15T21:16:07.823Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:33:23.412Z"
+  },
+  "Name": "boAt BassHeads 225",
+  "CategoryName": "Wired_Earphones",
+  "OldPrice": 3899,
+  "Price": 2499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 2,
+  "Date": {
+    "$date": "2022-02-06T13:33:23.390Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "_id": {
+        "$oid": "61ffce23ecc0e11f9877852b"
+      },
+      "Color": "#ff0000",
+      "Qty": 18,
+      "img": "https://utioutll.sirv.com/boat/wired_headphones/wired_headphones(14).png"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffce3decc0e11f9877852d"
+  },
+  "id": 48,
+  "updatedAt": {
+    "$date": "2022-02-14T18:58:20.260Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:33:49.686Z"
+  },
+  "Name": "TRebel BassHeads 242",
+  "CategoryName": "Wired_Earphones",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:33:49.683Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "_id": {
+        "$oid": "61ffce3decc0e11f9877852e"
+      },
+      "Color": "#1eff00",
+      "Qty": 20,
+      "img": "https://utioutll.sirv.com/boat/wired_headphones/wired_headphones(12).png"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffcebfecc0e11f98778530"
+  },
+  "id": 49,
+  "updatedAt": {
+    "$date": "2022-02-06T13:35:59.168Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:35:59.168Z"
+  },
+  "Name": "TRebel bassheads 104",
+  "CategoryName": "Wired_Earphones",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:35:59.161Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/wired_headphones/wired_headphones(13).png",
+      "Qty": 20,
+      "Color": "#0040ff",
+      "_id": {
+        "$oid": "61ffcebfecc0e11f98778532"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/wired_headphones/wired_headphones(14).png",
+      "Qty": 20,
+      "Color": "#000000",
+      "_id": {
+        "$oid": "61ffcebfecc0e11f98778531"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffcfb2ecc0e11f98778534"
+  },
+  "id": 50,
+  "updatedAt": {
+    "$date": "2022-02-06T13:40:02.215Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:40:02.215Z"
+  },
+  "Name": "TRebel bassheads-950v2",
+  "CategoryName": "Wired_Earphones",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:40:02.211Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/wired_headphones/wired_headphones(15).png",
+      "Qty": 20,
+      "Color": "#a3a3a3",
+      "_id": {
+        "$oid": "61ffcfb2ecc0e11f98778536"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/wired_headphones/wired_headphones(16).png",
+      "Qty": 20,
+      "Color": "#0055ff",
+      "_id": {
+        "$oid": "61ffcfb2ecc0e11f98778535"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd0d1ecc0e11f98778538"
+  },
+  "id": 51,
+  "updatedAt": {
+    "$date": "2022-02-06T13:44:49.063Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:44:49.063Z"
+  },
+  "Name": "TRebel stone 650",
+  "CategoryName": "Wireless_Speakers",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:44:49.045Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Speakers/Speakers(1).png",
+      "Qty": 20,
+      "Color": "#000000",
+      "_id": {
+        "$oid": "61ffd0d1ecc0e11f9877853a"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Speakers/Speakers(4).png",
+      "Qty": 20,
+      "Color": "#c70000",
+      "_id": {
+        "$oid": "61ffd0d1ecc0e11f98778539"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd12becc0e11f9877853c"
+  },
+  "id": 52,
+  "updatedAt": {
+    "$date": "2022-02-06T13:46:19.101Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:46:19.101Z"
+  },
+  "Name": "TRebel stone 190",
+  "CategoryName": "Wireless_Speakers",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:46:19.085Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Speakers/Speakers(2).png",
+      "Qty": 20,
+      "Color": "#002c5c",
+      "_id": {
+        "$oid": "61ffd12becc0e11f9877853f"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Speakers/Speakers(3).png",
+      "Qty": 20,
+      "Color": "#c70000",
+      "_id": {
+        "$oid": "61ffd12becc0e11f9877853e"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Speakers/Speakers(5).png",
+      "Qty": 20,
+      "Color": "#454545",
+      "_id": {
+        "$oid": "61ffd12becc0e11f9877853d"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd170ecc0e11f98778541"
+  },
+  "id": 53,
+  "updatedAt": {
+    "$date": "2022-02-06T13:48:03.844Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:47:28.832Z"
+  },
+  "Name": "TRebel stone 1200f",
+  "CategoryName": "Wireless_Speakers",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:47:28.827Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "_id": {
+        "$oid": "61ffd170ecc0e11f98778544"
+      },
+      "Color": "#002c5c",
+      "Qty": 20,
+      "img": "https://utioutll.sirv.com/boat/Speakers/Speakers(7).png"
+    },
+    {
+      "_id": {
+        "$oid": "61ffd170ecc0e11f98778543"
+      },
+      "Color": "#c70000",
+      "Qty": 20,
+      "img": "https://utioutll.sirv.com/boat/Speakers/Speakers(8).png"
+    },
+    {
+      "_id": {
+        "$oid": "61ffd170ecc0e11f98778542"
+      },
+      "Color": "#454545",
+      "Qty": 20,
+      "img": "https://utioutll.sirv.com/boat/Speakers/Speakers(9).png"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd1f8ecc0e11f98778546"
+  },
+  "id": 54,
+  "updatedAt": {
+    "$date": "2022-02-06T13:49:45.074Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:49:45.074Z"
+  },
+  "Name": "TRebel stone 620",
+  "CategoryName": "Wireless_Speakers",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:49:44.996Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Speakers/Speakers(11).png",
+      "Qty": 20,
+      "Color": "#002c5c",
+      "_id": {
+        "$oid": "61ffd1f8ecc0e11f98778549"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Speakers/Speakers(12).png",
+      "Qty": 20,
+      "Color": "#c70000",
+      "_id": {
+        "$oid": "61ffd1f8ecc0e11f98778548"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Speakers/Speakers(13).png",
+      "Qty": 20,
+      "Color": "#454545",
+      "_id": {
+        "$oid": "61ffd1f8ecc0e11f98778547"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd26decc0e11f9877854b"
+  },
+  "id": 55,
+  "updatedAt": {
+    "$date": "2022-02-14T09:41:21.340Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:51:41.316Z"
+  },
+  "Name": "TRebel grenada",
+  "CategoryName": "Wireless_Speakers",
+  "OldPrice": 3899,
+  "Price": 1499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:51:41.312Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Speakers/Speakers(14).png",
+      "Qty": 20,
+      "Color": "#002c5c",
+      "_id": {
+        "$oid": "61ffd26decc0e11f9877854e"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Speakers/Speakers(15).png",
+      "Qty": 20,
+      "Color": "#c70000",
+      "_id": {
+        "$oid": "61ffd26decc0e11f9877854d"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Speakers/Speakers(16).png",
+      "Qty": 20,
+      "Color": "#454545",
+      "_id": {
+        "$oid": "61ffd26decc0e11f9877854c"
+      }
+    }
+  ],
+  "__v": 0,
+  "Offer_id": {
+    "$oid": "61ffb606ecc0e11f987781f9"
+  }
+},{
+  "_id": {
+    "$oid": "61ffd3dfecc0e11f98778550"
+  },
+  "id": 56,
+  "updatedAt": {
+    "$date": "2022-02-06T13:57:51.515Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:57:51.515Z"
+  },
+  "Name": "Aavante Bar 1160",
+  "CategoryName": "Home_Audio",
+  "OldPrice": 23899,
+  "Price": 21499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:57:51.497Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Home_audio/Home_audio(2).png",
+      "Qty": 20,
+      "Color": "#000000",
+      "_id": {
+        "$oid": "61ffd3dfecc0e11f98778551"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd402ecc0e11f98778553"
+  },
+  "id": 57,
+  "updatedAt": {
+    "$date": "2022-02-06T13:58:26.492Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:58:26.492Z"
+  },
+  "Name": "Aavante Bar 1150",
+  "CategoryName": "Home_Audio",
+  "OldPrice": 23899,
+  "Price": 21499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:58:26.488Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Home_audio/Home_audio(3).png",
+      "Qty": 20,
+      "Color": "#000000",
+      "_id": {
+        "$oid": "61ffd402ecc0e11f98778554"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd41decc0e11f98778556"
+  },
+  "id": 58,
+  "updatedAt": {
+    "$date": "2022-02-06T13:58:53.543Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:58:53.543Z"
+  },
+  "Name": "Aavante Bar 1500",
+  "CategoryName": "Home_Audio",
+  "OldPrice": 23899,
+  "Price": 21499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:58:53.521Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Home_audio/Home_audio(1).png",
+      "Qty": 20,
+      "Color": "#000000",
+      "_id": {
+        "$oid": "61ffd41decc0e11f98778557"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd435ecc0e11f98778559"
+  },
+  "id": 59,
+  "updatedAt": {
+    "$date": "2022-02-06T13:59:17.364Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:59:17.364Z"
+  },
+  "Name": "Aavante Bar 1800",
+  "CategoryName": "Home_Audio",
+  "OldPrice": 23899,
+  "Price": 21499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T13:59:17.361Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Home_audio/Home_audio(7).png",
+      "Qty": 20,
+      "Color": "#000000",
+      "_id": {
+        "$oid": "61ffd435ecc0e11f9877855a"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd45becc0e11f9877855c"
+  },
+  "id": 60,
+  "updatedAt": {
+    "$date": "2022-02-14T06:24:45.532Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T13:59:55.316Z"
+  },
+  "Name": "Aavante Bar 550",
+  "CategoryName": "Home_Audio",
+  "OldPrice": 23899,
+  "Price": 21499,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 4,
+  "Date": {
+    "$date": "2022-02-06T13:59:55.293Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Home_audio/Home_audio(8).png",
+      "Qty": 16,
+      "Color": "#000000",
+      "_id": {
+        "$oid": "61ffd45becc0e11f9877855d"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd48eecc0e11f9877855f"
+  },
+  "id": 61,
+  "updatedAt": {
+    "$date": "2022-02-06T14:00:46.795Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:00:46.795Z"
+  },
+  "Name": "Aavante Bar 1700d",
+  "CategoryName": "Home_Audio",
+  "OldPrice": 10000,
+  "Price": 9900,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:00:46.792Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Home_audio/Home_audio(9).png",
+      "Qty": 20,
+      "Color": "#000000",
+      "_id": {
+        "$oid": "61ffd48eecc0e11f98778560"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd51aecc0e11f98778562"
+  },
+  "id": 62,
+  "updatedAt": {
+    "$date": "2022-02-06T14:03:06.928Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:03:06.928Z"
+  },
+  "Name": "LOWEST-PRICEYOU SAVE 60% LTG 500 Indestructible Apple Certified Lightning Cable 1 Meter",
+  "CategoryName": "Mobile_Accessories",
+  "OldPrice": 600,
+  "Price": 599,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:03:06.926Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Mobile_acces/Mobile_acces(1).png",
+      "Qty": 20,
+      "Color": "#616161",
+      "_id": {
+        "$oid": "61ffd51aecc0e11f98778563"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd58fecc0e11f98778565"
+  },
+  "id": 63,
+  "updatedAt": {
+    "$date": "2022-02-06T14:05:03.403Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:05:03.403Z"
+  },
+  "Name": "micro-axis",
+  "CategoryName": "Mobile_Accessories",
+  "OldPrice": 600,
+  "Price": 488,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:05:03.399Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Mobile_acces/Mobile_acces(2).png",
+      "Qty": 20,
+      "Color": "#616161",
+      "_id": {
+        "$oid": "61ffd58fecc0e11f98778567"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Mobile_acces/Mobile_acces(3).png",
+      "Qty": 20,
+      "Color": "#5c5c5c",
+      "_id": {
+        "$oid": "61ffd58fecc0e11f98778566"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd63fecc0e11f98778573"
+  },
+  "id": 64,
+  "updatedAt": {
+    "$date": "2022-02-06T14:07:59.214Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:07:59.214Z"
+  },
+  "Name": "Micro USB 150 1.5 Meter",
+  "CategoryName": "Mobile_Accessories",
+  "OldPrice": 600,
+  "Price": 488,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:07:59.209Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Mobile_acces/Mobile_acces(5).png",
+      "Qty": 20,
+      "Color": "#616161",
+      "_id": {
+        "$oid": "61ffd63fecc0e11f98778577"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Mobile_acces/Mobile_acces(6).png",
+      "Qty": 20,
+      "Color": "#1714c2",
+      "_id": {
+        "$oid": "61ffd63fecc0e11f98778576"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Mobile_acces/Mobile_acces(7).png",
+      "Qty": 20,
+      "Color": "#17971f",
+      "_id": {
+        "$oid": "61ffd63fecc0e11f98778575"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Mobile_acces/Mobile_acces(8).png",
+      "Qty": 20,
+      "Color": "#ffa200",
+      "_id": {
+        "$oid": "61ffd63fecc0e11f98778574"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd677ecc0e11f98778579"
+  },
+  "id": 65,
+  "updatedAt": {
+    "$date": "2022-02-11T06:55:03.533Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:08:55.564Z"
+  },
+  "Name": "BOAT OPT 200 Optical Cable",
+  "CategoryName": "Mobile_Accessories",
+  "OldPrice": 600,
+  "Price": 488,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 4,
+  "Date": {
+    "$date": "2022-02-06T14:08:55.561Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Mobile_acces/Mobile_acces(9).png",
+      "Qty": 16,
+      "Color": "#616161",
+      "_id": {
+        "$oid": "61ffd677ecc0e11f9877857a"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd759ecc0e11f9877857f"
+  },
+  "id": 66,
+  "updatedAt": {
+    "$date": "2022-02-06T14:12:41.023Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:12:41.023Z"
+  },
+  "Name": " BOAT Rockerz 400 KXIP Edition",
+  "CategoryName": "Limited_Edition",
+  "OldPrice": 1800,
+  "Price": 1200,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:12:41.020Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Limited_edtio/Misfiit_trimmers(1).png",
+      "Qty": 20,
+      "Color": "#dedede",
+      "_id": {
+        "$oid": "61ffd759ecc0e11f98778581"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Limited_edtio/Misfiit_trimmers(4).png",
+      "Qty": 20,
+      "Color": "#dbdbdb",
+      "_id": {
+        "$oid": "61ffd759ecc0e11f98778580"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd7a0ecc0e11f98778583"
+  },
+  "id": 67,
+  "updatedAt": {
+    "$date": "2022-02-06T14:13:52.376Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:13:52.376Z"
+  },
+  "Name": "BOAT Rockerz 450 - Masaba Edition",
+  "CategoryName": "Limited_Edition",
+  "OldPrice": 3467,
+  "Price": 2345,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:13:52.365Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Limited_edtio/Misfiit_trimmers(3).png",
+      "Qty": 20,
+      "Color": "#d3bf9c",
+      "_id": {
+        "$oid": "61ffd7a0ecc0e11f98778585"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Limited_edtio/Misfiit_trimmers(2).png",
+      "Qty": 20,
+      "Color": "#dbdbdb",
+      "_id": {
+        "$oid": "61ffd7a0ecc0e11f98778584"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd7f7ecc0e11f98778587"
+  },
+  "id": 68,
+  "updatedAt": {
+    "$date": "2022-02-06T14:15:19.358Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:15:19.358Z"
+  },
+  "Name": "Airdopes 131 - Black Panther Earbuds",
+  "CategoryName": "Limited_Edition",
+  "OldPrice": 3467,
+  "Price": 2345,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:15:19.354Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Limited_edtio/Misfiit_trimmers(5).png",
+      "Qty": 20,
+      "Color": "#0400ff",
+      "_id": {
+        "$oid": "61ffd7f7ecc0e11f98778588"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd8a0ecc0e11f9877858d"
+  },
+  "id": 69,
+  "updatedAt": {
+    "$date": "2022-02-06T14:18:08.479Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:18:08.479Z"
+  },
+  "Name": "boAt Immortal 1000D",
+  "CategoryName": "Immortal_Gaming",
+  "OldPrice": 3467,
+  "Price": 2445,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:18:08.476Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Immoral_gaminh/Immoral_gaminh(1).png",
+      "Qty": 20,
+      "Color": "#a6a6a6",
+      "_id": {
+        "$oid": "61ffd8a0ecc0e11f9877858f"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Immoral_gaminh/Immoral_gaminh(2).png",
+      "Qty": 20,
+      "Color": "#303030",
+      "_id": {
+        "$oid": "61ffd8a0ecc0e11f9877858e"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd90cecc0e11f98778591"
+  },
+  "id": 70,
+  "updatedAt": {
+    "$date": "2022-02-06T14:19:56.507Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:19:56.507Z"
+  },
+  "Name": "boAt Immortal 1300",
+  "CategoryName": "Immortal_Gaming",
+  "OldPrice": 3467,
+  "Price": 2445,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:19:56.502Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Immoral_gaminh/Immoral_gaminh(3).png",
+      "Qty": 20,
+      "Color": "#a6a6a6",
+      "_id": {
+        "$oid": "61ffd90cecc0e11f98778594"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Immoral_gaminh/Immoral_gaminh(4).png",
+      "Qty": 20,
+      "Color": "#b30000",
+      "_id": {
+        "$oid": "61ffd90cecc0e11f98778593"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Immoral_gaminh/Immoral_gaminh(6).png",
+      "Qty": 20,
+      "Color": "#0d0070",
+      "_id": {
+        "$oid": "61ffd90cecc0e11f98778592"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd94eecc0e11f98778596"
+  },
+  "id": 71,
+  "updatedAt": {
+    "$date": "2022-02-06T14:21:02.145Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:21:02.145Z"
+  },
+  "Name": "boAt Immortal 200",
+  "CategoryName": "Immortal_Gaming",
+  "OldPrice": 3467,
+  "Price": 2445,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:21:02.142Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Immoral_gaminh/Immoral_gaminh(11).png",
+      "Qty": 20,
+      "Color": "#121212",
+      "_id": {
+        "$oid": "61ffd94eecc0e11f98778598"
+      }
+    },
+    {
+      "img": "https://utioutll.sirv.com/boat/Immoral_gaminh/Immoral_gaminh(12).png",
+      "Qty": 20,
+      "Color": "#001adb",
+      "_id": {
+        "$oid": "61ffd94eecc0e11f98778597"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd986ecc0e11f9877859a"
+  },
+  "id": 72,
+  "updatedAt": {
+    "$date": "2022-02-06T14:21:58.493Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:21:58.493Z"
+  },
+  "Name": "boAt Immortal 400",
+  "CategoryName": "Immortal_Gaming",
+  "OldPrice": 3467,
+  "Price": 2445,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:21:58.490Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Immoral_gaminh/Immoral_gaminh(10).png",
+      "Qty": 20,
+      "Color": "#121212",
+      "_id": {
+        "$oid": "61ffd986ecc0e11f9877859b"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffd9a6ecc0e11f9877859d"
+  },
+  "id": 73,
+  "updatedAt": {
+    "$date": "2022-02-14T18:56:50.669Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:22:30.830Z"
+  },
+  "Name": "boAt Immortal 700",
+  "CategoryName": "Immortal_Gaming",
+  "OldPrice": 3467,
+  "Price": 2445,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 49,
+  "Date": {
+    "$date": "2022-02-06T14:22:30.826Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "_id": {
+        "$oid": "61ffd9a6ecc0e11f9877859e"
+      },
+      "Color": "#121212",
+      "Qty": 20,
+      "img": "https://utioutll.sirv.com/boat/Immoral_gaminh/Immoral_gaminh(7).png"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffda1fecc0e11f987785a0"
+  },
+  "id": 74,
+  "updatedAt": {
+    "$date": "2022-02-15T21:16:53.453Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:24:31.257Z"
+  },
+  "Name": "Misfit T200",
+  "CategoryName": "Misfit",
+  "OldPrice": 3467,
+  "Price": 2445,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 1,
+  "Date": {
+    "$date": "2022-02-06T14:24:31.253Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Misfiit_trimmers/Misfiit_trimmers%20(7).png",
+      "Qty": 19,
+      "Color": "#121212",
+      "_id": {
+        "$oid": "61ffda1fecc0e11f987785a1"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffda46ecc0e11f987785a3"
+  },
+  "id": 75,
+  "updatedAt": {
+    "$date": "2022-02-06T14:25:10.769Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:25:10.769Z"
+  },
+  "Name": "Misfit T50l",
+  "CategoryName": "Misfit",
+  "OldPrice": 3467,
+  "Price": 2445,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:25:10.766Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Misfiit_trimmers/Misfiit_trimmers%20(1).png",
+      "Qty": 20,
+      "Color": "#121212",
+      "_id": {
+        "$oid": "61ffda46ecc0e11f987785a4"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffda72ecc0e11f987785a6"
+  },
+  "id": 76,
+  "updatedAt": {
+    "$date": "2022-02-06T14:25:54.645Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:25:54.645Z"
+  },
+  "Name": "Misfit T30 Lite",
+  "CategoryName": "Misfit",
+  "OldPrice": 3467,
+  "Price": 2445,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:25:54.641Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Misfiit_trimmers/Misfiit_trimmers%20(3).png",
+      "Qty": 20,
+      "Color": "#121212",
+      "_id": {
+        "$oid": "61ffda72ecc0e11f987785a7"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffda95ecc0e11f987785a9"
+  },
+  "id": 77,
+  "updatedAt": {
+    "$date": "2022-02-06T14:26:29.021Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:26:29.021Z"
+  },
+  "Name": "Misfit T150 Lite",
+  "CategoryName": "Misfit",
+  "OldPrice": 3467,
+  "Price": 2445,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:26:29.013Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Misfiit_trimmers/Misfiit_trimmers%20(2).png",
+      "Qty": 20,
+      "Color": "#121212",
+      "_id": {
+        "$oid": "61ffda95ecc0e11f987785aa"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffdab2ecc0e11f987785ac"
+  },
+  "id": 78,
+  "updatedAt": {
+    "$date": "2022-02-06T14:26:58.569Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:26:58.569Z"
+  },
+  "Name": "Misfit T50 Lite",
+  "CategoryName": "Misfit",
+  "OldPrice": 3467,
+  "Price": 2445,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:26:58.566Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/boat/Misfiit_trimmers/Misfiit_trimmers%20(11).png",
+      "Qty": 20,
+      "Color": "#121212",
+      "_id": {
+        "$oid": "61ffdab2ecc0e11f987785ad"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffdbf4ecc0e11f987785af"
+  },
+  "id": 79,
+  "updatedAt": {
+    "$date": "2022-02-15T07:50:03.139Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:32:20.720Z"
+  },
+  "Name": "BOAT Airdopes 441 - Wireless Earbuds",
+  "CategoryName": "TRebel",
+  "OldPrice": 3467,
+  "Price": 2445,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 25,
+  "Date": {
+    "$date": "2022-02-06T14:32:20.717Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "_id": {
+        "$oid": "61ffdbf4ecc0e11f987785b0"
+      },
+      "Color": "#243ae5",
+      "Qty": 30,
+      "img": "https://utioutll.sirv.com/Wireless_Earbuds/a_6.png"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffdc02ecc0e11f987785b2"
+  },
+  "id": 80,
+  "updatedAt": {
+    "$date": "2022-02-15T21:16:53.448Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:32:34.906Z"
+  },
+  "Name": "TRebel Rockerz 450",
+  "CategoryName": "TRebel",
+  "OldPrice": 3467,
+  "Price": 2445,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 2,
+  "Date": {
+    "$date": "2022-02-06T14:32:34.904Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/TRebel/e_6.png",
+      "Qty": 18,
+      "Color": "#243ae5",
+      "_id": {
+        "$oid": "61ffdc02ecc0e11f987785b3"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffdc10ecc0e11f987785b5"
+  },
+  "id": 81,
+  "updatedAt": {
+    "$date": "2022-02-06T14:32:48.450Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:32:48.450Z"
+  },
+  "Name": "TRebel BassHeads 100",
+  "CategoryName": "TRebel",
+  "OldPrice": 3467,
+  "Price": 2445,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-06T14:32:48.446Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/TRebel/e_3.png",
+      "Qty": 20,
+      "Color": "#243ae5",
+      "_id": {
+        "$oid": "61ffdc10ecc0e11f987785b6"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffdc2aecc0e11f987785b8"
+  },
+  "id": 82,
+  "updatedAt": {
+    "$date": "2022-02-09T10:37:43Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-06T14:33:14.942Z"
+  },
+  "Name": "BOAT Airdopes 291 - Wireless Earbuds",
+  "CategoryName": "TRebel",
+  "OldPrice": 3467,
+  "Price": 2445,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 10,
+  "Date": {
+    "$date": "2022-02-06T14:33:14.921Z"
+  },
+  "Dis": [
+    "Immersive, HD sound quality",
+    " Lightweight for portability",
+    " Uninterrupted listening for 3 hours "
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/Wireless_Earbuds/a_25.png",
+      "Qty": 10,
+      "Color": "#050505",
+      "_id": {
+        "$oid": "61ffdc2aecc0e11f987785b9"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62009f5cfd1251296cec0457"
+  },
+  "id": 83,
+  "updatedAt": {
+    "$date": "2022-02-07T04:29:21.544Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-07T04:26:04.262Z"
+  },
+  "Name": "boat 1190",
+  "CategoryName": "TRebel",
+  "OldPrice": 599,
+  "Price": 499,
+  "isdeleted": true,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-07T04:26:04.199Z"
+  },
+  "Dis": [
+    "Smart Watches",
+    "Wireless_Headphones",
+    "Wireless_Headphones"
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/Wireless%20Headphones/c_6.png",
+      "Qty": 20,
+      "Color": "#b80000",
+      "_id": {
+        "$oid": "62009f5cfd1251296cec0458"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62009faefd1251296cec045a"
+  },
+  "id": 84,
+  "updatedAt": {
+    "$date": "2022-02-07T04:29:16.052Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-07T04:27:27.004Z"
+  },
+  "Name": "boat 1190",
+  "CategoryName": "TRebel",
+  "OldPrice": 20000,
+  "Price": 2000,
+  "isdeleted": true,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-07T04:27:26.894Z"
+  },
+  "Dis": [
+    "Wireless_Headphones",
+    "Wireless_Headphones",
+    "Wireless_Headphones"
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/Wireless%20Headphones/c_6.png",
+      "Qty": 20,
+      "Color": "#520000",
+      "_id": {
+        "$oid": "62009faefd1251296cec045b"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62009fe1fd1251296cec045d"
+  },
+  "id": 85,
+  "updatedAt": {
+    "$date": "2022-02-07T04:29:12.960Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-07T04:28:17.024Z"
+  },
+  "Name": "Smart Watches",
+  "CategoryName": "TRebel",
+  "OldPrice": 2222,
+  "Price": 2222,
+  "isdeleted": true,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-07T04:28:17.015Z"
+  },
+  "Dis": [
+    "Wireless_Headphones",
+    "asasas",
+    "Wireless_Headphones"
+  ],
+  "Products_data": [
+    {
+      "img": "https://utioutll.sirv.com/Wireless%20Headphones/c_6.png",
+      "Qty": 20,
+      "Color": "#330000",
+      "_id": {
+        "$oid": "62009fe1fd1251296cec045e"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62009febfd1251296cec0460"
+  },
+  "id": 86,
+  "updatedAt": {
+    "$date": "2022-02-16T07:23:25.568Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-07T04:28:27.404Z"
+  },
+  "Name": "Smart Watches",
+  "CategoryName": "TRebel",
+  "OldPrice": 2222,
+  "Price": 2222,
+  "isdeleted": true,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-07T04:28:27.340Z"
+  },
+  "Dis": [
+    "Wireless_Headphones",
+    "asasas",
+    "Wireless_Headphones"
+  ],
+  "Products_data": [
+    {
+      "_id": {
+        "$oid": "62009febfd1251296cec0461"
+      },
+      "Color": "#330000",
+      "Qty": 20,
+      "img": "https://utioutll.sirv.com/Wireless%20Headphones/c_6.png"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6202a389a776fd0c900d30f9"
+  },
+  "id": 87,
+  "updatedAt": {
+    "$date": "2022-02-14T05:55:19.986Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-08T17:08:25.315Z"
+  },
+  "Name": "DMEO",
+  "CategoryName": "demo",
+  "OldPrice": 30000,
+  "Price": 3000,
+  "isdeleted": true,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-08T17:08:25.310Z"
+  },
+  "Dis": [
+    "qwqw",
+    "asasa",
+    "qwqw"
+  ],
+  "Products_data": [
+    {
+      "_id": {
+        "$oid": "6202a389a776fd0c900d30fa"
+      },
+      "Color": "#212121",
+      "Qty": 30,
+      "img": "https://utioutll.sirv.com/Wireless%20Headphones/c_6.png"
+    }
+  ],
+  "__v": 0,
+  "Offer_id": {
+    "$oid": "61ffb606ecc0e11f987781f9"
+  }
+},{
+  "_id": {
+    "$oid": "6208eb7e29cf57194c30a44e"
+  },
+  "id": 88,
+  "updatedAt": {
+    "$date": "2022-02-14T05:50:56.119Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-13T11:29:02.219Z"
+  },
+  "Name": "Smart Watches",
+  "CategoryName": "Wireless_Headphones",
+  "OldPrice": 12121,
+  "Price": 221,
+  "isdeleted": true,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-13T11:29:02.204Z"
+  },
+  "Dis": [
+    "Smart Watches",
+    "Smart Watches",
+    "Smart Watches"
+  ],
+  "Products_data": [
+    {
+      "img": "http://res.cloudinary.com/boat2022/image/upload/v1644751593/x6usjcxqlkmy7aa4psv6.png",
+      "Qty": 20,
+      "Color": "#8f8f8f",
+      "_id": {
+        "$oid": "6208eb7e29cf57194c30a450"
+      }
+    },
+    {
+      "img": "http://res.cloudinary.com/boat2022/image/upload/v1644751681/ih4dfxna02fhx6ubdbjg.png",
+      "Qty": 30,
+      "Color": "#545454",
+      "_id": {
+        "$oid": "6208eb7e29cf57194c30a44f"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6208fcc6cd6859174050b504"
+  },
+  "id": 89,
+  "updatedAt": {
+    "$date": "2022-02-14T05:50:52.116Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-13T12:42:46.480Z"
+  },
+  "Name": "Smart Watches",
+  "CategoryName": "Wireless_Earbuds",
+  "OldPrice": 2323,
+  "Price": 2323,
+  "isdeleted": true,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 6,
+  "Date": {
+    "$date": "2022-02-13T12:42:46.446Z"
+  },
+  "Dis": [
+    "asasasasas",
+    "qwqw",
+    "asasas"
+  ],
+  "Products_data": [
+    {
+      "_id": {
+        "$oid": "6208fcc6cd6859174050b505"
+      },
+      "Color": "#6b6b6b",
+      "Qty": 20,
+      "img": "http://res.cloudinary.com/boat2022/image/upload/v1644758912/z42nyyoovkngz6wxxye3.png"
+    },
+    {
+      "Color": "#760404",
+      "Qty": 24,
+      "img": "http://res.cloudinary.com/boat2022/image/upload/v1644759367/s6tnvnqegjlwvqj2qcwz.png",
+      "_id": {
+        "$oid": "62090958cd6859174050b507"
+      }
+    }
+  ],
+  "__v": 0,
+  "Offer_id": {
+    "$oid": "61ffb606ecc0e11f987781f9"
+  }
+},{
+  "_id": {
+    "$oid": "6209f211919c912970f02fa2"
+  },
+  "id": 90,
+  "updatedAt": {
+    "$date": "2022-02-16T04:38:40.324Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-14T06:09:21.872Z"
+  },
+  "Name": "BOAT Rockerz 610",
+  "CategoryName": "Wireless_Headphones",
+  "OldPrice": 5000,
+  "Price": 2599,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 1,
+  "Date": {
+    "$date": "2022-02-14T06:09:21.580Z"
+  },
+  "Dis": [
+    "State Of The Art Design",
+    "Soft Ear Cushion",
+    "Extended Battery"
+  ],
+  "Products_data": [
+    {
+      "img": "http://res.cloudinary.com/boat2022/image/upload/v1644818904/espptotsauhhiexdndhx.webp",
+      "Qty": 19,
+      "Color": "#77502c",
+      "_id": {
+        "$oid": "6209f211919c912970f02fa4"
+      }
+    },
+    {
+      "img": "http://res.cloudinary.com/boat2022/image/upload/v1644818948/fr1vymajisrp2utfzcy8.webp",
+      "Qty": 20,
+      "Color": "#050505",
+      "_id": {
+        "$oid": "6209f211919c912970f02fa3"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6209f28d919c912970f02fa6"
+  },
+  "id": 91,
+  "updatedAt": {
+    "$date": "2022-02-14T06:11:25.981Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-14T06:11:25.981Z"
+  },
+  "Name": "Nirvanaa 1007ANC",
+  "CategoryName": "Wireless_Headphones",
+  "OldPrice": 10000,
+  "Price": 9999,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-14T06:11:25.941Z"
+  },
+  "Dis": [
+    "Active noise cancelling",
+    "SmartWave™️ technology",
+    "Ambient sound mode "
+  ],
+  "Products_data": [
+    {
+      "img": "http://res.cloudinary.com/boat2022/image/upload/v1644819065/nxyzjfvr82bwdeotumic.webp",
+      "Qty": 20,
+      "Color": "#4a4559",
+      "_id": {
+        "$oid": "6209f28d919c912970f02fa7"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6209f3c3919c912970f02fa9"
+  },
+  "id": 92,
+  "updatedAt": {
+    "$date": "2022-02-14T18:38:34.882Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-14T06:16:35.984Z"
+  },
+  "Name": "boAt Nirvanaa 751 ANC ",
+  "CategoryName": "Wireless_Headphones",
+  "OldPrice": 5999,
+  "Price": 3999,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 2,
+  "Date": {
+    "$date": "2022-02-14T06:16:35.981Z"
+  },
+  "Dis": [
+    "Best ANC Headphones",
+    "Hybrid Active Noise Cancellation",
+    "Long Lasting Battery"
+  ],
+  "Products_data": [
+    {
+      "_id": {
+        "$oid": "6209f3c3919c912970f02fab"
+      },
+      "Color": "#d1d1d1",
+      "Qty": 18,
+      "img": "http://res.cloudinary.com/boat2022/image/upload/v1644819252/gnslolxtm7wpreymatle.webp"
+    },
+    {
+      "_id": {
+        "$oid": "6209f3c3919c912970f02faa"
+      },
+      "Color": "#474747",
+      "Qty": 20,
+      "img": "http://res.cloudinary.com/boat2022/image/upload/v1644819282/rtnklisd0ceskjr4agr1.webp"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620b9adc13b3ae28bc2cb16e"
+  },
+  "id": 93,
+  "updatedAt": {
+    "$date": "2022-02-15T12:22:17.145Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-15T12:21:48.904Z"
+  },
+  "Name": "Smart Watchesdemo",
+  "CategoryName": "TRebel",
+  "OldPrice": 30000,
+  "Price": 2000,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-15T12:21:48.869Z"
+  },
+  "Dis": [
+    "Smart Watches",
+    "Smart Watches",
+    "Smart Watches"
+  ],
+  "Products_data": [
+    {
+      "_id": {
+        "$oid": "620b9adc13b3ae28bc2cb16f"
+      },
+      "Color": "#ff0000",
+      "Qty": 20,
+      "img": "http://res.cloudinary.com/boat2022/image/upload/v1644927693/vhi00dsxffsc1lnrixfi.png"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620c0ed3eae6b517ec649d75"
+  },
+  "id": 94,
+  "updatedAt": {
+    "$date": "2022-02-16T07:25:50.501Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-15T20:36:36.799Z"
+  },
+  "Name": "Smart Watches23demo",
+  "CategoryName": "demodemo",
+  "OldPrice": 3000,
+  "Price": 2000,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-15T20:36:35.767Z"
+  },
+  "Dis": [
+    "asasa",
+    "qwqw",
+    "qwqw"
+  ],
+  "Products_data": [
+    {
+      "img": "http://res.cloudinary.com/boat2022/image/upload/v1644957364/om5hpfegbsupiixqng41.png",
+      "Qty": 40,
+      "Color": "#c7c7c7",
+      "_id": {
+        "$oid": "620c0ed3eae6b517ec649d76"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620cadcc946975119c543cfa"
+  },
+  "id": 95,
+  "updatedAt": {
+    "$date": "2022-02-16T07:56:44.732Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-16T07:54:52.432Z"
+  },
+  "Name": "Smart Watchesdemo33",
+  "CategoryName": "Misfit",
+  "OldPrice": 3000,
+  "Price": 2000,
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-16T07:54:52.423Z"
+  },
+  "Dis": [
+    "Smart Watches",
+    "Smart Watches",
+    "Smart Watches"
+  ],
+  "Products_data": [
+    {
+      "img": "http://res.cloudinary.com/boat2022/image/upload/v1644998119/xtfvbjwpnrb5np8oaiis.png",
+      "Qty": 30,
+      "Color": "#8c8c8c",
+      "_id": {
+        "$oid": "620cadcc946975119c543cfb"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "620cae26946975119c543cfd"
+      },
+      "img": "http://res.cloudinary.com/boat2022/image/upload/v1644998132/cgkqo1xrwtyuwoeigu0p.png",
+      "Qty": 19,
+      "Color": "#383838"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6215f4e84cc6be2f54afe035"
+  },
+  "id": 96,
+  "updatedAt": {
+    "$date": "2022-02-24T14:13:39.241Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-23T08:48:40.452Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": true,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-23T08:48:40.439Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "_id": {
+        "$oid": "6215f4e84cc6be2f54afe036"
+      },
+      "Qty": 200,
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Color": "#AAAAAA"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6215f575c0f7371164a2d9ab"
+  },
+  "id": 97,
+  "updatedAt": {
+    "$date": "2022-02-23T08:51:01.436Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-23T08:51:01.436Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-23T08:51:01.421Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "6215f575c0f7371164a2d9ac"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6215f58a224f8b0944574c4b"
+  },
+  "id": 98,
+  "updatedAt": {
+    "$date": "2022-02-23T08:51:22.914Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-23T08:51:22.914Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-23T08:51:22.898Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "6215f58a224f8b0944574c4c"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62162e42f6df1a19f4e21f67"
+  },
+  "id": 99,
+  "updatedAt": {
+    "$date": "2022-02-23T12:53:22.459Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-23T12:53:22.459Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-23T12:53:22.260Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "62162e42f6df1a19f4e21f68"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6216372b2a9fbf2afc041a5f"
+  },
+  "id": 100,
+  "updatedAt": {
+    "$date": "2022-02-23T13:31:23.625Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-23T13:31:23.625Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-23T13:31:23.609Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "6216372b2a9fbf2afc041a60"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6216381b0f7f0a2e40a015f4"
+  },
+  "id": 101,
+  "updatedAt": {
+    "$date": "2022-02-23T13:35:23.605Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-23T13:35:23.605Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-23T13:35:23.588Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "6216381b0f7f0a2e40a015f5"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62163dd0c62fce215c2d0789"
+  },
+  "id": 102,
+  "updatedAt": {
+    "$date": "2022-02-23T13:59:44.026Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-23T13:59:44.026Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-23T13:59:44.010Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "62163dd0c62fce215c2d078a"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6216450b2a88542774521b81"
+  },
+  "id": 103,
+  "updatedAt": {
+    "$date": "2022-02-23T14:30:36.142Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-23T14:30:36.142Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-23T14:30:35.843Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "6216450b2a88542774521b82"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621648556c72892a3c724d33"
+  },
+  "id": 104,
+  "updatedAt": {
+    "$date": "2022-02-23T14:44:37.348Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-23T14:44:37.348Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-23T14:44:37.330Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "621648556c72892a3c724d34"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62164959bc9ceb1cc8a165b0"
+  },
+  "id": 105,
+  "updatedAt": {
+    "$date": "2022-02-23T14:48:57.562Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-23T14:48:57.562Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-23T14:48:57.539Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "62164959bc9ceb1cc8a165b1"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62164a33ff597229787795cf"
+  },
+  "id": 106,
+  "updatedAt": {
+    "$date": "2022-02-23T14:52:35.280Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-23T14:52:35.280Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-23T14:52:35.252Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "62164a33ff597229787795d0"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62164d443fb1c118aca6ebaf"
+  },
+  "id": 107,
+  "updatedAt": {
+    "$date": "2022-02-23T15:05:40.114Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-23T15:05:40.114Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-23T15:05:40.099Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "62164d443fb1c118aca6ebb0"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62164d7bb4d9c71da497956f"
+  },
+  "id": 108,
+  "updatedAt": {
+    "$date": "2022-02-23T15:06:35.193Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-23T15:06:35.193Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-23T15:06:35.175Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "62164d7bb4d9c71da4979570"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62164da0a0f50317a09c5670"
+  },
+  "id": 109,
+  "updatedAt": {
+    "$date": "2022-02-23T15:07:12.356Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-23T15:07:12.356Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-23T15:07:12.336Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "62164da0a0f50317a09c5671"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6217168bcd41052638cfb79d"
+  },
+  "id": 110,
+  "updatedAt": {
+    "$date": "2022-02-24T05:24:27.265Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-24T05:24:27.265Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-24T05:24:27.248Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "6217168bcd41052638cfb79e"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62172a82154d3124dc9d38f3"
+  },
+  "id": 111,
+  "updatedAt": {
+    "$date": "2022-02-24T06:49:38.374Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-24T06:49:38.374Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-24T06:49:38.357Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "62172a82154d3124dc9d38f4"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62172b2c1eb4582c90a7836d"
+  },
+  "id": 112,
+  "updatedAt": {
+    "$date": "2022-02-24T06:52:28.213Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-24T06:52:28.213Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-24T06:52:28.190Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "62172b2c1eb4582c90a7836e"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62172bb843a3052b2077bb95"
+  },
+  "id": 113,
+  "updatedAt": {
+    "$date": "2022-02-24T06:54:48.749Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-24T06:54:48.749Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-24T06:54:48.726Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "62172bb843a3052b2077bb96"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62172bc5de658a10900d4581"
+  },
+  "id": 114,
+  "updatedAt": {
+    "$date": "2022-02-24T06:55:01.362Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-24T06:55:01.362Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-24T06:55:01.331Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "62172bc5de658a10900d4582"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621731449273092d2cf99551"
+  },
+  "id": 115,
+  "updatedAt": {
+    "$date": "2022-02-24T07:18:28.991Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-24T07:18:28.991Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-24T07:18:28.971Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "621731449273092d2cf99552"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62173c5ca7110f215436e4eb"
+  },
+  "id": 116,
+  "updatedAt": {
+    "$date": "2022-02-24T08:05:48.449Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-24T08:05:48.449Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 0,
+  "Date": {
+    "$date": "2022-02-24T08:05:48.427Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 200,
+      "_id": {
+        "$oid": "62173c5ca7110f215436e4ec"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621792927cb4511ad4996f10"
+  },
+  "id": 117,
+  "updatedAt": {
+    "$date": "2022-02-25T07:42:16.411Z"
+  },
+  "createdAt": {
+    "$date": "2022-02-24T14:13:38.739Z"
+  },
+  "Name": "demodata",
+  "CategoryName": "Wireless_Headphones",
+  "Price": 888999,
+  "OldPrice": 999,
+  "Offer_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "isdeleted": false,
+  "Review": [],
+  "Ratting_avg": 0,
+  "Selling_count": 1,
+  "Date": {
+    "$date": "2022-02-24T14:13:38.720Z"
+  },
+  "Dis": [
+    "Upto 75% Off On Best Sellers",
+    " Stylish dual tone finish",
+    " Immersive, HD sound quality"
+  ],
+  "Products_data": [
+    {
+      "Color": "#AAAAAA",
+      "img": "https://utioutll.sirv.com/Wired%20Earphones/b_1.png",
+      "Qty": 199,
+      "_id": {
+        "$oid": "621792927cb4511ad4996f11"
+      }
+    }
+  ],
+  "__v": 0
+}]

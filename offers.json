@@ -1,0 +1,197 @@
+[{
+  "_id": {
+    "$oid": "61c33506f59cdd33d087b34c"
+  },
+  "OfferName": "20% off",
+  "Offer_Start_Date": {
+    "$date": "2020-10-01T00:00:00Z"
+  },
+  "Offer_End_Date": {
+    "$date": "2020-10-19T00:00:00Z"
+  },
+  "Offer_pct": 20,
+  "IsDeleted": true,
+  "__v": 0,
+  "id": "7"
+},{
+  "_id": {
+    "$oid": "61c3686195a4b23298756f31"
+  },
+  "OfferName": "30% off",
+  "Offer_Start_Date": {
+    "$date": "2020-10-01T00:00:00Z"
+  },
+  "Offer_End_Date": {
+    "$date": "2022-10-19T00:00:00Z"
+  },
+  "Offer_pct": 20,
+  "IsDeleted": true,
+  "__v": 0,
+  "id": "8"
+},{
+  "_id": {
+    "$oid": "61c54e747e27f424943157c7"
+  },
+  "Offer_id": "680",
+  "OfferName": "70% off",
+  "Offer_Start_Date": {
+    "$date": "2020-10-01T00:00:00Z"
+  },
+  "Offer_End_Date": {
+    "$date": "2022-01-19T00:00:00Z"
+  },
+  "Offer_pct": 20,
+  "IsDeleted": false,
+  "__v": 0,
+  "id": "9"
+},{
+  "_id": {
+    "$oid": "61ceb48ed7cea72be468c4ec"
+  },
+  "id": 1,
+  "OfferName": "71% off",
+  "Offer_Start_Date": {
+    "$date": "2020-10-01T00:00:00Z"
+  },
+  "Offer_End_Date": {
+    "$date": "2022-02-24T08:03:00Z"
+  },
+  "Offer_pct": 20,
+  "IsDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e32d59d823c7051ce6713f"
+  },
+  "id": 2,
+  "OfferName": "711% off",
+  "Offer_Start_Date": {
+    "$date": "2020-10-01T00:00:00Z"
+  },
+  "Offer_End_Date": {
+    "$date": "2023-10-19T00:00:00Z"
+  },
+  "Offer_pct": 20,
+  "IsDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fb8cc26a59761a14eb1d9c"
+  },
+  "id": 2,
+  "OfferName": "73% off",
+  "Offer_Start_Date": {
+    "$date": "2020-10-01T00:00:00Z"
+  },
+  "Offer_End_Date": {
+    "$date": "2023-10-19T00:00:00Z"
+  },
+  "Offer_pct": 73,
+  "IsDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fb955780c0fb0fe8f364b5"
+  },
+  "id": 3,
+  "Offer_Start_Date": {
+    "$date": "2022-02-23T11:48:00Z"
+  },
+  "Offer_End_Date": {
+    "$date": "2022-03-01T22:45:00Z"
+  },
+  "Offer_pct": 26,
+  "OfferName": "Smart Watches",
+  "IsDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fb958d80c0fb0fe8f364b8"
+  },
+  "id": 6,
+  "Offer_Start_Date": {
+    "$date": "2022-02-10T08:40:00Z"
+  },
+  "Offer_End_Date": {
+    "$date": "2022-02-10T08:40:00Z"
+  },
+  "Offer_pct": 23,
+  "OfferName": "Smart Watches3",
+  "IsDeleted": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fba2a96c582009c4c48481"
+  },
+  "id": 23,
+  "OfferName": "Smart Watches23",
+  "Offer_Start_Date": {
+    "$date": "2022-02-23T09:37:00Z"
+  },
+  "Offer_End_Date": {
+    "$date": "2022-02-18T09:37:00Z"
+  },
+  "Offer_pct": 23,
+  "IsDeleted": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffb606ecc0e11f987781f9"
+  },
+  "id": 25,
+  "OfferName": "demo",
+  "Offer_Start_Date": {
+    "$date": "2022-02-06T11:50:00Z"
+  },
+  "Offer_End_Date": {
+    "$date": "2022-02-27T06:23:00Z"
+  },
+  "Offer_pct": 30,
+  "IsDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620b950b6681c30a90bec826"
+  },
+  "id": 27,
+  "OfferName": "demo2",
+  "Offer_Start_Date": {
+    "$date": "2022-02-12T11:56:00Z"
+  },
+  "Offer_End_Date": {
+    "$date": "2022-03-04T21:05:00Z"
+  },
+  "Offer_pct": 30,
+  "IsDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620c15a1eae6b517ec64a490"
+  },
+  "id": 28,
+  "OfferName": "Smart Watches2",
+  "Offer_Start_Date": {
+    "$date": "2022-02-03T21:05:00Z"
+  },
+  "Offer_End_Date": {
+    "$date": "2022-02-25T21:05:00Z"
+  },
+  "Offer_pct": 12,
+  "IsDeleted": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62162e44f6df1a19f4e22048"
+  },
+  "id": 29,
+  "OfferName": "73% off demo",
+  "Offer_Start_Date": {
+    "$date": "2020-10-01T00:00:00Z"
+  },
+  "Offer_End_Date": {
+    "$date": "2023-10-19T00:00:00Z"
+  },
+  "Offer_pct": 73,
+  "IsDeleted": true,
+  "__v": 0
+}]

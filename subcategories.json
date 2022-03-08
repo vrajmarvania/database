@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "61940d9a1da3a496e700f38c"
+  },
+  "SubCategoryName": "demo",
+  "Type": "demo",
+  "Fimg": "demp",
+  "Data": [
+    {
+      "_id": {
+        "$oid": "61caa92c99d38019f82fe94f"
+      }
+    }
+  ],
+  "__v": 0,
+  "IsDeleted": true
+},{
+  "_id": {
+    "$oid": "61c55d7271a8c520bca18d82"
+  },
+  "SubCategoryName": "demo1",
+  "Type": "demoo",
+  "Fimg": "demp",
+  "IsDeleted": false,
+  "Data": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cbfa8ec55ed5244cb3aba2"
+  },
+  "SubCategoryName": "dem2",
+  "Type": "demo",
+  "Fimg": "demp",
+  "IsDeleted": false,
+  "Data": [
+    {
+      "_id": {
+        "$oid": "61caa92c99d38019f82fe94f"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6215cb8eb8423f0dfc9609b3"
+  },
+  "id": 1,
+  "SubCategoryName": "dem222",
+  "Type": "demo222",
+  "Fimg": "demp222",
+  "IsDeleted": true,
+  "Data": [],
+  "__v": 0
+}]

@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "61e32b70d857841d187b198c"
+  },
+  "model": "productModel",
+  "field": "id",
+  "count": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e32b92118f602d64c8498d"
+  },
+  "model": "Product",
+  "field": "id",
+  "count": 117,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e32c23c4ef9606601ea31f"
+  },
+  "model": "Blogs",
+  "field": "id",
+  "count": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e32d49d823c7051ce67137"
+  },
+  "model": "Category",
+  "field": "id",
+  "count": 117,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e32d49d823c7051ce67138"
+  },
+  "model": "SubCategory",
+  "field": "id",
+  "count": 35,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e32d49d823c7051ce67139"
+  },
+  "model": "Cart",
+  "field": "id",
+  "count": 14,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e32d49d823c7051ce6713a"
+  },
+  "model": "user",
+  "field": "id",
+  "count": 113,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e32d49d823c7051ce6713c"
+  },
+  "model": "offer",
+  "field": "id",
+  "count": 46,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e32d49d823c7051ce6713d"
+  },
+  "model": "Review",
+  "field": "id",
+  "count": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e32d49d823c7051ce6713b"
+  },
+  "model": "Orders",
+  "field": "id",
+  "count": 276,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ea8333cd7a0c20303de6f3"
+  },
+  "model": "Orders",
+  "field": "OrderId",
+  "count": 219,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fd8d62d443e526ac31e071"
+  },
+  "model": "Payment",
+  "field": "id",
+  "count": 1105,
+  "__v": 0
+}]

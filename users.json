@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "619333ae862a515b21331550"
+  },
+  "First_Name": "vrajaa",
+  "Last_Name": "marvaniaaa",
+  "Email": "vraj.demoo@gmail.com",
+  "Password": "$2b$10$HcbHxHTswx.WQMJtW.mdR.8DBm5DJKsLLHBmawyhizED1HqAbRCK6",
+  "Type": 1,
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619333d1862a515b21331554"
+  },
+  "First_Name": "vrajaa",
+  "Last_Name": "marvaniaaa",
+  "Email": "vraj.demo@gmail.com",
+  "Password": "$2b$10$2.fOrOzpu0MaKIZDFnBinOwnLd44jU9GBEv3grQXCENRbPSSPh9.G",
+  "Type": 1,
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61933405862a515b21331556"
+  },
+  "First_Name": "vrajaa",
+  "Last_Name": "marvaniaaa",
+  "Email": "vraj.dem@gmail.com",
+  "Password": "$2b$10$BrugsCkggZrJFU4ov9gpeOmDfXOwlH80P.e3T9dbNpbPrD49EAqwS",
+  "Type": 1,
+  "isdeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a5b8070b3120ef69e49032"
+  },
+  "First_Name": "vrajaa",
+  "Last_Name": "marvaniaaa",
+  "Email": "vraj.de@gmail.com",
+  "Password": "$2b$10$I1XIUqx2a/ZlOYHySK4aIu6XYeZlPs8b.4mG7JSFP2rQoMhPmo2g6",
+  "Type": 1,
+  "IsDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf4cc130e45be4cfc57675"
+  },
+  "First_Name": "demo",
+  "Last_Name": "demolast",
+  "Email": "demo.demo@gmail.com",
+  "Password": "$2b$10$FGdKxEhOWEt1qG9tlHf6HucGsq4dLP7NNMp2b/YwMZA9OE48Flykq",
+  "Type": 2,
+  "IsDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c4c79bc6b6722840998168"
+  },
+  "First_Name": "vraj",
+  "Last_Name": "daaaaaa",
+  "Email": "vdemo@gmail.com",
+  "Password": "$2b$10$z7CUEcRgT3x6gmEu6NWs2eQZ3eihFgHexzGkX3Qo5h8mhFeZ/wyka",
+  "Type": 2,
+  "IsDeleted": false,
+  "__v": 0,
+  "verified": true
+},{
+  "_id": {
+    "$oid": "61e47e9c90f4ba192045437a"
+  },
+  "id": 2,
+  "First_Name": "aaaaaa",
+  "Last_Name": "dssssss",
+  "Email": "vdemo@gmail.comm",
+  "Password": "$2b$10$tKoO1lzUOh1C3eFJFiLtO.cSWVsO7ZH7KR6otuW44aRGUlW.GsGQi",
+  "Type": 1,
+  "IsDeleted": false,
+  "__v": 0,
+  "verified": true
+},{
+  "_id": {
+    "$oid": "61e47eaf90f4ba192045437b"
+  },
+  "id": 3,
+  "Type": 1,
+  "First_Name": "ADARSH",
+  "Last_Name": "Masa",
+  "Email": "AWISENATION@GMAIL.COM",
+  "Password": "$2b$10$tM4huKnuYVHOruXLW/uUe.ZtO.JE8VgSfQLJmV/GJXVsXDmTupti.",
+  "IsDeleted": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620c93a24e20c92890fba098"
+  },
+  "id": 112,
+  "Type": 2,
+  "First_Name": "vraj",
+  "Last_Name": "marvania",
+  "Email": "vraj.marvania@gmail.com",
+  "Password": "$2b$10$uivKljrX9veTsRsQJbBta.v3YKz3BVpOqyYmR/.48eDPTQgTfl6py",
+  "token": "98439053154242",
+  "IsDeleted": false,
+  "verified": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620cb027946975119c543ed9"
+  },
+  "id": 113,
+  "Type": 1,
+  "First_Name": "vraj",
+  "Last_Name": "marvania",
+  "Email": "vraj.marvania1999@gmail.com",
+  "Password": "$2b$10$72gejK6uNay/CvNZFjXkyedeEzsRqaCIxLaiTJ8MYta2AiRd3rMCu",
+  "token": "83750058254957",
+  "IsDeleted": false,
+  "verified": true,
+  "__v": 0
+}]

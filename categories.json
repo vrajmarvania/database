@@ -1,0 +1,842 @@
+[{
+  "_id": {
+    "$oid": "61ffbe49ecc0e11f98778422"
+  },
+  "id": 63,
+  "CategoryName": "Wireless_Earbuds",
+  "Type": "Wireless Earbuds",
+  "Fimg": "https://utioutll.sirv.com/Wireless_Earbuds/a_1.png",
+  "IsDeleted": false,
+  "Data": [
+    {
+      "Productid": {
+        "$oid": "61ffc44decc0e11f987784b7"
+      },
+      "_id": {
+        "$oid": "61ffc44fecc0e11f987784bb"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffc594ecc0e11f987784bc"
+      },
+      "_id": {
+        "$oid": "61ffc594ecc0e11f987784c0"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffc78aecc0e11f987784d3"
+      },
+      "_id": {
+        "$oid": "61ffc78aecc0e11f987784da"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffc7ececc0e11f987784db"
+      },
+      "_id": {
+        "$oid": "61ffc7ececc0e11f987784de"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffc87eecc0e11f987784df"
+      },
+      "_id": {
+        "$oid": "61ffc87eecc0e11f987784e4"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "6208fcc6cd6859174050b504"
+      },
+      "_id": {
+        "$oid": "6208fcc6cd6859174050b506"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffbeb5ecc0e11f98778423"
+  },
+  "id": 64,
+  "CategoryName": "Wireless_Headphones",
+  "Type": "Wireless Headphones",
+  "Fimg": "https://utioutll.sirv.com/Wireless%20Headphones/c_1.jpeg",
+  "IsDeleted": false,
+  "Data": [
+    {
+      "Productid": {
+        "$oid": "61ffc9ffecc0e11f987784e5"
+      },
+      "_id": {
+        "$oid": "61ffc9ffecc0e11f987784ea"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffca69ecc0e11f987784eb"
+      },
+      "_id": {
+        "$oid": "61ffca69ecc0e11f987784ee"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffcb7eecc0e11f987784fe"
+      },
+      "_id": {
+        "$oid": "61ffcb7fecc0e11f98778503"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "6208eb7e29cf57194c30a44e"
+      },
+      "_id": {
+        "$oid": "6208eb7e29cf57194c30a451"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "6209f211919c912970f02fa2"
+      },
+      "_id": {
+        "$oid": "6209f212919c912970f02fa5"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "6209f28d919c912970f02fa6"
+      },
+      "_id": {
+        "$oid": "6209f28d919c912970f02fa8"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "6209f3c3919c912970f02fa9"
+      },
+      "_id": {
+        "$oid": "6209f3c4919c912970f02fac"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "6215f4e84cc6be2f54afe035"
+      },
+      "_id": {
+        "$oid": "6215f4e84cc6be2f54afe037"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "6215f575c0f7371164a2d9ab"
+      },
+      "_id": {
+        "$oid": "6215f575c0f7371164a2d9ad"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "6215f58a224f8b0944574c4b"
+      },
+      "_id": {
+        "$oid": "6215f58b224f8b0944574c4d"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62162e42f6df1a19f4e21f67"
+      },
+      "_id": {
+        "$oid": "62162e43f6df1a19f4e21f69"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "6216372b2a9fbf2afc041a5f"
+      },
+      "_id": {
+        "$oid": "6216372b2a9fbf2afc041a61"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "6216381b0f7f0a2e40a015f4"
+      },
+      "_id": {
+        "$oid": "6216381c0f7f0a2e40a015f6"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62163dd0c62fce215c2d0789"
+      },
+      "_id": {
+        "$oid": "62163dd0c62fce215c2d078b"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "6216450b2a88542774521b81"
+      },
+      "_id": {
+        "$oid": "6216450c2a88542774521b83"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "621648556c72892a3c724d33"
+      },
+      "_id": {
+        "$oid": "621648556c72892a3c724d35"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62164959bc9ceb1cc8a165b0"
+      },
+      "_id": {
+        "$oid": "6216495abc9ceb1cc8a165b2"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62164a33ff597229787795cf"
+      },
+      "_id": {
+        "$oid": "62164a33ff597229787795d1"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62164d443fb1c118aca6ebaf"
+      },
+      "_id": {
+        "$oid": "62164d443fb1c118aca6ebb1"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62164d7bb4d9c71da497956f"
+      },
+      "_id": {
+        "$oid": "62164d7bb4d9c71da4979571"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62164da0a0f50317a09c5670"
+      },
+      "_id": {
+        "$oid": "62164da0a0f50317a09c5672"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "6217168bcd41052638cfb79d"
+      },
+      "_id": {
+        "$oid": "6217168bcd41052638cfb79f"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62172a82154d3124dc9d38f3"
+      },
+      "_id": {
+        "$oid": "62172a83154d3124dc9d38f5"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62172b2c1eb4582c90a7836d"
+      },
+      "_id": {
+        "$oid": "62172b2c1eb4582c90a7836f"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62172bb843a3052b2077bb95"
+      },
+      "_id": {
+        "$oid": "62172bb943a3052b2077bb97"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62172bc5de658a10900d4581"
+      },
+      "_id": {
+        "$oid": "62172bc5de658a10900d4583"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "621731449273092d2cf99551"
+      },
+      "_id": {
+        "$oid": "621731459273092d2cf99553"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62173c5ca7110f215436e4eb"
+      },
+      "_id": {
+        "$oid": "62173c5ca7110f215436e4ed"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "621792927cb4511ad4996f10"
+      },
+      "_id": {
+        "$oid": "621792927cb4511ad4996f12"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffbed2ecc0e11f98778424"
+  },
+  "id": 65,
+  "CategoryName": "Smart_Watches",
+  "Type": "Smart Watches",
+  "Fimg": "https://utioutll.sirv.com/Smart%20Watches/1_1_11.png",
+  "IsDeleted": false,
+  "Data": [
+    {
+      "Productid": {
+        "$oid": "61ffcc07ecc0e11f98778504"
+      },
+      "_id": {
+        "$oid": "61ffcc07ecc0e11f98778509"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffcc4aecc0e11f9877850a"
+      },
+      "_id": {
+        "$oid": "61ffcc4aecc0e11f9877850d"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffcd14ecc0e11f9877851d"
+      },
+      "_id": {
+        "$oid": "61ffcd14ecc0e11f98778522"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffcd72ecc0e11f98778523"
+      },
+      "_id": {
+        "$oid": "61ffcd72ecc0e11f98778526"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffbf06ecc0e11f98778425"
+  },
+  "id": 66,
+  "CategoryName": "Wired_Earphones",
+  "Type": "Wired Earphones",
+  "Fimg": "https://utioutll.sirv.com/Wired%20Earphones/Bassheads-_Catgry_web.jpg",
+  "IsDeleted": false,
+  "Data": [
+    {
+      "Productid": {
+        "$oid": "61ffce01ecc0e11f98778527"
+      },
+      "_id": {
+        "$oid": "61ffce01ecc0e11f98778529"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffce23ecc0e11f9877852a"
+      },
+      "_id": {
+        "$oid": "61ffce23ecc0e11f9877852c"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffce3decc0e11f9877852d"
+      },
+      "_id": {
+        "$oid": "61ffce3decc0e11f9877852f"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffcebfecc0e11f98778530"
+      },
+      "_id": {
+        "$oid": "61ffcebfecc0e11f98778533"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffcfb2ecc0e11f98778534"
+      },
+      "_id": {
+        "$oid": "61ffcfb2ecc0e11f98778537"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffbf7becc0e11f98778426"
+  },
+  "id": 67,
+  "CategoryName": "Wireless_Speakers",
+  "Type": "Wireless Speakers",
+  "Fimg": "https://utioutll.sirv.com/Wireless%20Speakers/d_1.jpeg",
+  "IsDeleted": false,
+  "Data": [
+    {
+      "Productid": {
+        "$oid": "61ffd0d1ecc0e11f98778538"
+      },
+      "_id": {
+        "$oid": "61ffd0d1ecc0e11f9877853b"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd12becc0e11f9877853c"
+      },
+      "_id": {
+        "$oid": "61ffd12becc0e11f98778540"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd170ecc0e11f98778541"
+      },
+      "_id": {
+        "$oid": "61ffd170ecc0e11f98778545"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd1f8ecc0e11f98778546"
+      },
+      "_id": {
+        "$oid": "61ffd1f9ecc0e11f9877854a"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd26decc0e11f9877854b"
+      },
+      "_id": {
+        "$oid": "61ffd26decc0e11f9877854f"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffbf97ecc0e11f98778427"
+  },
+  "id": 68,
+  "CategoryName": "Home_Audio",
+  "Type": "Home Audio",
+  "Fimg": "https://utioutll.sirv.com/Home%20Theater%20Systems%20%26%20Soundbars/Immortal%20Gaming/f_1.png",
+  "IsDeleted": false,
+  "Data": [
+    {
+      "Productid": {
+        "$oid": "61ffd3dfecc0e11f98778550"
+      },
+      "_id": {
+        "$oid": "61ffd3dfecc0e11f98778552"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd402ecc0e11f98778553"
+      },
+      "_id": {
+        "$oid": "61ffd402ecc0e11f98778555"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd41decc0e11f98778556"
+      },
+      "_id": {
+        "$oid": "61ffd41decc0e11f98778558"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd435ecc0e11f98778559"
+      },
+      "_id": {
+        "$oid": "61ffd435ecc0e11f9877855b"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd45becc0e11f9877855c"
+      },
+      "_id": {
+        "$oid": "61ffd45becc0e11f9877855e"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd48eecc0e11f9877855f"
+      },
+      "_id": {
+        "$oid": "61ffd48eecc0e11f98778561"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffbfb2ecc0e11f98778428"
+  },
+  "id": 69,
+  "CategoryName": "Mobile_Accessories",
+  "Type": "Mobile Accessories",
+  "Fimg": "https://utioutll.sirv.com/Mobile%20Accessories/d_1.jpeg",
+  "IsDeleted": false,
+  "Data": [
+    {
+      "Productid": {
+        "$oid": "61ffd51aecc0e11f98778562"
+      },
+      "_id": {
+        "$oid": "61ffd51aecc0e11f98778564"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd58fecc0e11f98778565"
+      },
+      "_id": {
+        "$oid": "61ffd58fecc0e11f98778568"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd63fecc0e11f98778573"
+      },
+      "_id": {
+        "$oid": "61ffd63fecc0e11f98778578"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd677ecc0e11f98778579"
+      },
+      "_id": {
+        "$oid": "61ffd677ecc0e11f9877857b"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffbfe2ecc0e11f98778429"
+  },
+  "id": 70,
+  "CategoryName": "TRebel",
+  "Type": "TRebel",
+  "Fimg": "https://utioutll.sirv.com/TRebel/e_1.jpeg",
+  "IsDeleted": false,
+  "Data": [
+    {
+      "Productid": {
+        "$oid": "61ffdbf4ecc0e11f987785af"
+      },
+      "_id": {
+        "$oid": "61ffdbf4ecc0e11f987785b1"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffdc02ecc0e11f987785b2"
+      },
+      "_id": {
+        "$oid": "61ffdc02ecc0e11f987785b4"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffdc10ecc0e11f987785b5"
+      },
+      "_id": {
+        "$oid": "61ffdc10ecc0e11f987785b7"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffdc2aecc0e11f987785b8"
+      },
+      "_id": {
+        "$oid": "61ffdc2aecc0e11f987785ba"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62009f5cfd1251296cec0457"
+      },
+      "_id": {
+        "$oid": "62009f5cfd1251296cec0459"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62009faefd1251296cec045a"
+      },
+      "_id": {
+        "$oid": "62009faffd1251296cec045c"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62009fe1fd1251296cec045d"
+      },
+      "_id": {
+        "$oid": "62009fe1fd1251296cec045f"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "62009febfd1251296cec0460"
+      },
+      "_id": {
+        "$oid": "62009febfd1251296cec0462"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "620b9adc13b3ae28bc2cb16e"
+      },
+      "_id": {
+        "$oid": "620b9add13b3ae28bc2cb170"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffbff9ecc0e11f9877842a"
+  },
+  "id": 71,
+  "CategoryName": "Limited_Edition",
+  "Type": "Limited Edition",
+  "Fimg": "https://utioutll.sirv.com/Wireless%20Speakers/d_1.jpeg",
+  "IsDeleted": false,
+  "Data": [
+    {
+      "Productid": {
+        "$oid": "61ffd759ecc0e11f9877857f"
+      },
+      "_id": {
+        "$oid": "61ffd759ecc0e11f98778582"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd7a0ecc0e11f98778583"
+      },
+      "_id": {
+        "$oid": "61ffd7a0ecc0e11f98778586"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd7f7ecc0e11f98778587"
+      },
+      "_id": {
+        "$oid": "61ffd7f7ecc0e11f98778589"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffc02eecc0e11f9877842b"
+  },
+  "id": 72,
+  "CategoryName": "Misfit",
+  "Type": "Misfit",
+  "Fimg": "https://utioutll.sirv.com/Misfit%20-%20Best%20Trimmer%20for%20Men/g_1.jpeg",
+  "IsDeleted": false,
+  "Data": [
+    {
+      "Productid": {
+        "$oid": "61ffda1fecc0e11f987785a0"
+      },
+      "_id": {
+        "$oid": "61ffda1fecc0e11f987785a2"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffda46ecc0e11f987785a3"
+      },
+      "_id": {
+        "$oid": "61ffda46ecc0e11f987785a5"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffda72ecc0e11f987785a6"
+      },
+      "_id": {
+        "$oid": "61ffda72ecc0e11f987785a8"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffda95ecc0e11f987785a9"
+      },
+      "_id": {
+        "$oid": "61ffda95ecc0e11f987785ab"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffdab2ecc0e11f987785ac"
+      },
+      "_id": {
+        "$oid": "61ffdab2ecc0e11f987785ae"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "620cadcc946975119c543cfa"
+      },
+      "_id": {
+        "$oid": "620cadcc946975119c543cfc"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffc03becc0e11f9877842c"
+  },
+  "id": 73,
+  "CategoryName": "Immortal_Gaming",
+  "Type": "Immortal Gaming",
+  "Fimg": "https://utioutll.sirv.com/Immortal%20Gaming/f_1.png",
+  "IsDeleted": false,
+  "Data": [
+    {
+      "Productid": {
+        "$oid": "61ffd8a0ecc0e11f9877858d"
+      },
+      "_id": {
+        "$oid": "61ffd8a0ecc0e11f98778590"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd90cecc0e11f98778591"
+      },
+      "_id": {
+        "$oid": "61ffd90cecc0e11f98778595"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd94eecc0e11f98778596"
+      },
+      "_id": {
+        "$oid": "61ffd94eecc0e11f98778599"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd986ecc0e11f9877859a"
+      },
+      "_id": {
+        "$oid": "61ffd986ecc0e11f9877859c"
+      }
+    },
+    {
+      "Productid": {
+        "$oid": "61ffd9a6ecc0e11f9877859d"
+      },
+      "_id": {
+        "$oid": "61ffd9a6ecc0e11f9877859f"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620b5bebd4a2ec2ca06d7618"
+  },
+  "id": 79,
+  "CategoryName": "demodemo",
+  "Type": "demo",
+  "Fimg": "http://res.cloudinary.com/boat2022/image/upload/v1644911592/lydfp73otup0fukcs34g.png",
+  "IsDeleted": false,
+  "Data": [
+    {
+      "Productid": {
+        "$oid": "620c0ed3eae6b517ec649d75"
+      },
+      "_id": {
+        "$oid": "620c0ed7eae6b517ec649d77"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620b5c31d4a2ec2ca06d7619"
+  },
+  "id": 80,
+  "CategoryName": "demo2",
+  "Type": "demo",
+  "Fimg": "http://res.cloudinary.com/boat2022/image/upload/v1644911661/r04tdkjigk9fl47mz0bj.png",
+  "IsDeleted": true,
+  "Data": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620caecc946975119c543cfe"
+  },
+  "id": 81,
+  "CategoryName": "Smart Watches",
+  "Type": "Smart_Watches",
+  "Fimg": "http://res.cloudinary.com/boat2022/image/upload/v1644998345/wp2tfeiohkrtzjpc2vzi.png",
+  "IsDeleted": false,
+  "Data": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6215cc089a56fd266cae3441"
+  },
+  "id": 82,
+  "CategoryName": "Wired_Earphonesdemoonly",
+  "Type": "Wired Earphones",
+  "Fimg": "https://utioutll.sirv.com/Wireless%20Headphones/c_1.jpeg",
+  "IsDeleted": true,
+  "Data": [],
+  "__v": 0
+}]
